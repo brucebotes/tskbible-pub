@@ -1,0 +1,24 @@
+# -*- mode: org; -*-
+
+:PROPERTIES:
+:BOOK: ps
+:CHAPTER: 104
+:END:
+
+#+begin_verse
+*104* (*J^2*). THE KING ON THE COMING POWER AND GLORY. /(Introversion and Repeated Alternation.)/
+#+end_verse
+
+#+begin_section
+| *J^2* | Q   |   |     |     | 1\sim      | Jehovah to be praised.              |
+|       |     | R | S^1 |     | \sim1,2    | Thou.                               |
+|       |     |   |     | T^1 | 3          | He. Who. Day I. Earth.              |
+|       |     |   | S^2 |     | 6,7        | Thou. Day II. Waters.               |
+|       |     |   |     | T^2 | 10-19      | He. Who. Day III, IV. Earth, Light. |
+|       |     |   | S^3 |     | 20\sim     | Thou. Day III, IV. Earth, Light.    |
+|       |     |   |     | T^3 | \sim20-23  | They. Day III, IV. Earth, Light.    |
+|       |     |   | S^4 |     | 24\sim     | Thou. Day V, VI. Water. Sun.        |
+|       |     |   |     | T^4 | \sim24\sim | He.                                 |
+|       | /Q/ |   |     |     | \sim24     | Jehovah to be praised.              |
+|       |     |   |     |     |            |                                     |
+#+end_section

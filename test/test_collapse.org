@@ -1,0 +1,48 @@
+# -*- mode: org; -*-
+
+:PROPERTIES:
+:BOOK: ps
+:CHAPTER: 104
+:END:
+
+#+begin_verse
+*104* (*J^2*). THE KING ON THE COMING POWER AND GLORY. /(Introversion and Repeated Alternation.)/
+#+end_verse
+
+#+begin_section
+| *J^2* | Q   |   |     |     | 1\sim      | Jehovah to be praised.              |
+| | | | | | |1\sim. Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.|
+|       |     | R | S^1 |     | \sim1,2    | Thou.                               |
+| | | | | | |\sim1. Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.|
+| | | | | | |2. Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:|
+|       |     |   |     | T^1 | 3          | He. Who. Day I. Earth.              |
+| | | | | | |3. Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:|
+|       |     |   | S^2 |     | 6,7        | Thou. Day II. Waters.               |
+| | | | | | |6. Thou coveredst it with the deep as with a garment: the waters stood above the mountains.|
+| | | | | | |7. At thy rebuke they fled; at the voice of thy thunder they hasted away.|
+|       |     |   |     | T^2 | 10-19      | He. Who. Day III, IV. Earth, Light. |
+| | | | | | |10. He sendeth the springs into the valleys, which run among the hills.|
+| | | | | | |11. They give drink to every beast of the field: the wild asses quench their thirst.|
+| | | | | | |12. By them shall the fowls of the heaven have their habitation, which sing among the branches.|
+| | | | | | |13. He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.|
+| | | | | | |14. He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;|
+| | | | | | |15. And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man's heart.|
+| | | | | | |16. The trees of the LORD are full of sap; the cedars of Lebanon, which he hath planted;|
+| | | | | | |17. Where the birds make their nests: as for the stork, the fir trees are her house.|
+| | | | | | |18. The high hills are a refuge for the wild goats; and the rocks for the conies.|
+| | | | | | |19. He appointed the moon for seasons: the sun knoweth his going down.|
+|       |     |   | S^3 |     | 20\sim     | Thou. Day III, IV. Earth, Light.    |
+| | | | | | |20\sim. Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.|
+|       |     |   |     | T^3 | \sim20-23  | They. Day III, IV. Earth, Light.    |
+| | | | | | |\sim20. Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.|
+| | | | | | |21. The young lions roar after their prey, and seek their meat from God.|
+| | | | | | |22. The sun ariseth, they gather themselves together, and lay them down in their dens.|
+| | | | | | |23. Man goeth forth unto his work and to his labour until the evening.|
+|       |     |   | S^4 |     | 24\sim     | Thou. Day V, VI. Water. Sun.        |
+| | | | | | |24\sim. O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.|
+|       |     |   |     | T^4 | \sim24\sim | He.                                 |
+| | | | | | |\sim24\sim. O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.|
+|       | /Q/ |   |     |     | \sim24     | Jehovah to be praised.              |
+| | | | | | |\sim24. O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.|
+|       |     |   |     |     |            |                                     |
+#+end_section

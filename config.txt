@@ -1,0 +1,24 @@
+[ollama_server] = "http://localhost:11434/api/chat"
+[temperature] = "0.3"
+[model] = "qwen3:0.6b"
+[llm_query] = @JSON
+{
+    "stream":false,
+    "messages":[
+        {"role":"system",
+            "content":"You are an grammarian and teacher tasked to assist me in understanding the structural parts of sentences. You have access to the 1611 KJV of the bible and are very familiar with the English dialect of that time."
+        },
+        {"role":"user",
+            "content":"Given this verse: "
+        },
+        {"role":"user",
+            "content": "{{ VERSE_PLACEHOLDER }}"
+        },
+        {"role":"user",
+            "content":"Give a proper break down of the phrases and grammar structure of the verse."
+        }
+    ],
+    "temperature": {{ temperature }},
+    "model": "{{ model }}"
+}
+@JSON

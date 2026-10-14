@@ -1,0 +1,6 @@
+-I.
+-I./src
+-I./build
+-I./my_lib
+-std=c23
+
