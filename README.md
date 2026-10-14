@@ -167,8 +167,15 @@ make MODE=debug
 
 ---
 
+## Contact
+
+You may reach me at: botes.bruce@gmail.com.
+
+---
+
 ## ⚖️ License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
 
 *If you use this software or bundle it into your own projects, please retain the copyright notice and include a link back to this GitHub repository.*
+
